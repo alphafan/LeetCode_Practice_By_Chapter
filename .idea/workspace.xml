@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4e438b8b-dc66-4e83-8a8f-be4c1b21544b" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/utils/timer.py" afterPath="$PROJECT_DIR$/utils/timer.py" />
+      <change beforePath="$PROJECT_DIR$/array/001_Remove_Duplicates_from_Sorted_Array.py" afterPath="$PROJECT_DIR$/array/001_Remove_Duplicates_from_Sorted_Array.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,11 +27,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="001_Remove_Duplicates_from_Sorted_Array.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="001_Remove_Duplicates_from_Sorted_Array.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/array/001_Remove_Duplicates_from_Sorted_Array.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="76" column="0" lean-forward="true" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+            <state relative-caret-position="194">
+              <caret line="83" column="45" lean-forward="false" selection-start-line="83" selection-start-column="45" selection-end-line="83" selection-end-column="45" />
               <folding>
                 <element signature="e#1333#1348#0" expanded="true" />
               </folding>
@@ -39,7 +39,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="timer.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="timer.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/utils/timer.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="133">
@@ -67,8 +67,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/array/001_Remove_Duplicates_from_Sorted_Array.py" />
         <option value="$PROJECT_DIR$/utils/timer.py" />
+        <option value="$PROJECT_DIR$/array/001_Remove_Duplicates_from_Sorted_Array.py" />
       </list>
     </option>
   </component>
@@ -255,19 +255,17 @@
       <option name="project" value="LOCAL" />
       <updated>1532851159126</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="reprlib">
+      <created>1532851242923</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1532851242923</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_001_Remove_Duplicates_from_Sorted_Array_Test - 2018.07.29 at 15h 56m 05s.xml">
-      <configuration name="Unittests for 001_Remove_Duplicates_from_Sorted_Array.Test" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_001_Remove_Duplicates_from_Sorted_Array_Test_test_6 - 2018.07.29 at 15h 56m 58s.xml">
-      <configuration name="Unittests for 001_Remove_Duplicates_from_Sorted_Array.Test.test_6" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_001_Remove_Duplicates_from_Sorted_Array_Test_test_6 - 2018.07.29 at 15h 57m 07s.xml">
-      <configuration name="Unittests for 001_Remove_Duplicates_from_Sorted_Array.Test.test_6" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_for_001_Remove_Duplicates_from_Sorted_Array_Test_test_6 - 2018.07.29 at 15h 58m 18s.xml">
       <configuration name="Unittests for 001_Remove_Duplicates_from_Sorted_Array.Test.test_6" configurationId="tests" />
     </history-entry>
@@ -277,17 +275,26 @@
     <history-entry file="Unittests_for_001_Remove_Duplicates_from_Sorted_Array_Test_test_6 - 2018.07.29 at 16h 00m 29s.xml">
       <configuration name="Unittests for 001_Remove_Duplicates_from_Sorted_Array.Test.test_6" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_001_Remove_Duplicates_from_Sorted_Array_py - 2018.07.29 at 15h 52m 37s.xml">
-      <configuration name="Unittests in 001_Remove_Duplicates_from_Sorted_Array.py" configurationId="tests" />
+    <history-entry file="Unittests_for_001_Remove_Duplicates_from_Sorted_Array_Test_test_6 - 2018.07.29 at 16h 02m 48s.xml">
+      <configuration name="Unittests for 001_Remove_Duplicates_from_Sorted_Array.Test.test_6" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_001_Remove_Duplicates_from_Sorted_Array_py - 2018.07.29 at 15h 53m 08s.xml">
-      <configuration name="Unittests in 001_Remove_Duplicates_from_Sorted_Array.py" configurationId="tests" />
+    <history-entry file="Unittests_for_001_Remove_Duplicates_from_Sorted_Array_Test_test_6 - 2018.07.29 at 16h 03m 08s.xml">
+      <configuration name="Unittests for 001_Remove_Duplicates_from_Sorted_Array.Test.test_6" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_001_Remove_Duplicates_from_Sorted_Array_py - 2018.07.29 at 15h 53m 23s.xml">
-      <configuration name="Unittests in 001_Remove_Duplicates_from_Sorted_Array.py" configurationId="tests" />
+    <history-entry file="Unittests_for_001_Remove_Duplicates_from_Sorted_Array_Test_test_6 - 2018.07.29 at 16h 03m 20s.xml">
+      <configuration name="Unittests for 001_Remove_Duplicates_from_Sorted_Array.Test.test_6" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_001_Remove_Duplicates_from_Sorted_Array_py - 2018.07.29 at 15h 55m 36s.xml">
-      <configuration name="Unittests in 001_Remove_Duplicates_from_Sorted_Array.py" configurationId="tests" />
+    <history-entry file="Unittests_for_001_Remove_Duplicates_from_Sorted_Array_Test_test_6 - 2018.07.29 at 16h 03m 28s.xml">
+      <configuration name="Unittests for 001_Remove_Duplicates_from_Sorted_Array.Test.test_6" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_001_Remove_Duplicates_from_Sorted_Array_Test_test_6 - 2018.07.29 at 16h 03m 46s.xml">
+      <configuration name="Unittests for 001_Remove_Duplicates_from_Sorted_Array.Test.test_6" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_001_Remove_Duplicates_from_Sorted_Array_Test_test_6 - 2018.07.29 at 16h 03m 57s.xml">
+      <configuration name="Unittests for 001_Remove_Duplicates_from_Sorted_Array.Test.test_6" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_001_Remove_Duplicates_from_Sorted_Array_Test_test_6 - 2018.07.29 at 16h 04m 06s.xml">
+      <configuration name="Unittests for 001_Remove_Duplicates_from_Sorted_Array.Test.test_6" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -318,7 +325,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="tricky solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="tricky solution" />
+    <MESSAGE value="reprlib" />
+    <option name="LAST_COMMIT_MESSAGE" value="reprlib" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -336,22 +344,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/array/001_Remove_Duplicates_from_Sorted_Array.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="76" column="0" lean-forward="true" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
-          <folding>
-            <element signature="e#1333#1348#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/utils/timer.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="7" column="32" lean-forward="true" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/001_Remove_Duplicates_from_Sorted_Array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="83" column="45" lean-forward="false" selection-start-line="83" selection-start-column="45" selection-end-line="83" selection-end-column="45" />
+          <folding>
+            <element signature="e#1333#1348#0" expanded="true" />
           </folding>
         </state>
       </provider>

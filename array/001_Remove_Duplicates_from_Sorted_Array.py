@@ -81,6 +81,7 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
+        # Very tricky, but it's really faster
         nums[:] = sorted(list(set(nums)))
         return nums
 
@@ -134,7 +135,7 @@ class Test(unittest.TestCase):
         assert l == 0
 
     def test_6(self):
-        a = [random.randrange(1, 10) for _ in range(0, 10000)]
+        a = [random.randrange(1, 10) for _ in range(0, 50000)]
         s = Solution()
         s.removeDuplicates(a)
         s.removeDuplicates_V2(a)

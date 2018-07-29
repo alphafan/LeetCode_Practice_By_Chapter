@@ -1,4 +1,5 @@
 import time
+import reprlib
 
 
 def timer(func):
@@ -8,7 +9,7 @@ def timer(func):
         result = func(*args)
         elapsed = time.perf_counter() - t0
         name = func.__name__
-        arg_str = ', '.join(repr(arg) for arg in args)
+        arg_str = ', '.join(reprlib.repr(arg) for arg in args)
         print('[%0.8fs] %s(%s) -> %r' % (elapsed, name, arg_str, result))
         return result
 

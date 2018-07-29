@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e438b8b-dc66-4e83-8a8f-be4c1b21544b" name="Default" comment="" />
+    <list default="true" id="4e438b8b-dc66-4e83-8a8f-be4c1b21544b" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/utils/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/utils/timer.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/array/001_Remove_Duplicates_from_Sorted_Array.py" afterPath="$PROJECT_DIR$/array/001_Remove_Duplicates_from_Sorted_Array.py" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,7 +17,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -24,11 +30,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="001_Remove_Duplicates_from_Sorted_Array.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="001_Remove_Duplicates_from_Sorted_Array.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/array/001_Remove_Duplicates_from_Sorted_Array.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="741">
-              <caret line="39" column="33" lean-forward="false" selection-start-line="39" selection-start-column="33" selection-end-line="39" selection-end-column="33" />
+            <state relative-caret-position="39">
+              <caret line="72" column="17" lean-forward="true" selection-start-line="72" selection-start-column="17" selection-end-line="72" selection-end-column="17" />
+              <folding>
+                <element signature="e#1333#1348#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="timer.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/utils/timer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -43,11 +61,15 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/array/001_Remove_Duplicates_from_Sorted_Array.py" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/utils/timer.py" />
+        <option value="$PROJECT_DIR$/array/001_Remove_Duplicates_from_Sorted_Array.py" />
       </list>
     </option>
   </component>
@@ -74,6 +96,7 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -124,6 +147,94 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="Python tests.Unittests for 001_Remove_Duplicates_from_Sorted_Array.Test.test_6">
+    <configuration name="Unittests for 001_Remove_Duplicates_from_Sorted_Array.Test" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/array" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="leet_code_practice" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;001_Remove_Duplicates_from_Sorted_Array.Test&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Unittests for 001_Remove_Duplicates_from_Sorted_Array.Test.test_2" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/array" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="leet_code_practice" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;001_Remove_Duplicates_from_Sorted_Array.Test.test_2&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Unittests for 001_Remove_Duplicates_from_Sorted_Array.Test.test_4" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/array" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="leet_code_practice" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;001_Remove_Duplicates_from_Sorted_Array.Test.test_4&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Unittests for 001_Remove_Duplicates_from_Sorted_Array.Test.test_6" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/array" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="leet_code_practice" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;001_Remove_Duplicates_from_Sorted_Array.Test.test_6&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Unittests in 001_Remove_Duplicates_from_Sorted_Array.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/array" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="leet_code_practice" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/array/001_Remove_Duplicates_from_Sorted_Array.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in 001_Remove_Duplicates_from_Sorted_Array.py" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests for 001_Remove_Duplicates_from_Sorted_Array.Test.test_4" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests for 001_Remove_Duplicates_from_Sorted_Array.Test.test_2" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests for 001_Remove_Duplicates_from_Sorted_Array.Test" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests for 001_Remove_Duplicates_from_Sorted_Array.Test.test_6" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests for 001_Remove_Duplicates_from_Sorted_Array.Test.test_6" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests for 001_Remove_Duplicates_from_Sorted_Array.Test" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in 001_Remove_Duplicates_from_Sorted_Array.py" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests for 001_Remove_Duplicates_from_Sorted_Array.Test.test_2" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests for 001_Remove_Duplicates_from_Sorted_Array.Test.test_4" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
@@ -140,16 +251,47 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_001_Remove_Duplicates_from_Sorted_Array_Test - 2018.07.29 at 15h 56m 05s.xml">
+      <configuration name="Unittests for 001_Remove_Duplicates_from_Sorted_Array.Test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_001_Remove_Duplicates_from_Sorted_Array_Test_test_2 - 2018.07.29 at 15h 43m 58s.xml">
+      <configuration name="Unittests for 001_Remove_Duplicates_from_Sorted_Array.Test.test_2" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_001_Remove_Duplicates_from_Sorted_Array_Test_test_6 - 2018.07.29 at 15h 56m 58s.xml">
+      <configuration name="Unittests for 001_Remove_Duplicates_from_Sorted_Array.Test.test_6" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_001_Remove_Duplicates_from_Sorted_Array_Test_test_6 - 2018.07.29 at 15h 57m 07s.xml">
+      <configuration name="Unittests for 001_Remove_Duplicates_from_Sorted_Array.Test.test_6" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_001_Remove_Duplicates_from_Sorted_Array_Test_test_6 - 2018.07.29 at 15h 58m 18s.xml">
+      <configuration name="Unittests for 001_Remove_Duplicates_from_Sorted_Array.Test.test_6" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_001_Remove_Duplicates_from_Sorted_Array_Test_test_6 - 2018.07.29 at 15h 58m 35s.xml">
+      <configuration name="Unittests for 001_Remove_Duplicates_from_Sorted_Array.Test.test_6" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_001_Remove_Duplicates_from_Sorted_Array_py - 2018.07.29 at 15h 52m 37s.xml">
+      <configuration name="Unittests in 001_Remove_Duplicates_from_Sorted_Array.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_001_Remove_Duplicates_from_Sorted_Array_py - 2018.07.29 at 15h 53m 08s.xml">
+      <configuration name="Unittests in 001_Remove_Duplicates_from_Sorted_Array.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_001_Remove_Duplicates_from_Sorted_Array_py - 2018.07.29 at 15h 53m 23s.xml">
+      <configuration name="Unittests in 001_Remove_Duplicates_from_Sorted_Array.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_001_Remove_Duplicates_from_Sorted_Array_py - 2018.07.29 at 15h 55m 36s.xml">
+      <configuration name="Unittests in 001_Remove_Duplicates_from_Sorted_Array.py" configurationId="tests" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -172,14 +314,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/array/001_Remove_Duplicates_from_Sorted_Array.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="741">
-          <caret line="39" column="33" lean-forward="false" selection-start-line="39" selection-start-column="33" selection-end-line="39" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -188,6 +322,24 @@
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/timer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/001_Remove_Duplicates_from_Sorted_Array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="72" column="17" lean-forward="true" selection-start-line="72" selection-start-column="17" selection-end-line="72" selection-end-column="17" />
+          <folding>
+            <element signature="e#1333#1348#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

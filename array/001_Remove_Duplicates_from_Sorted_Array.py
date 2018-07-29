@@ -135,6 +135,7 @@ class Test(unittest.TestCase):
         assert l == 0
 
     def test_6(self):
+        """ Compare speed """
         a = [random.randrange(1, 10) for _ in range(0, 50000)]
         s = Solution()
         s.removeDuplicates(a)
